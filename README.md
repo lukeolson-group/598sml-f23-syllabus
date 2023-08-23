@@ -10,6 +10,7 @@
 
 ## Course links:
 * Public access repo (here): https://github.com/lukeolson-group/598sml-f23-syllabus
+* Public access repo through Colab: https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
 * Private class repo: https://github.com/lukeolson-group/598sml-f23-hw
 * Slack: https://598sml-f23.slack.com/
 
@@ -57,6 +58,21 @@ on the material.
 
 - `week01 (0821)`
   - Topic: What is Sci ML? And what is this course?
+    - Scientific discovery in the age of artificial intelligence
+      - https://www.nature.com/articles/s41586-023-06221-2
+    - FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators
+      - https://arxiv.org/pdf/2202.11214.pdf
+      - https://dl.acm.org/doi/abs/10.1145/3592979.3593412 (edited) 
+    - GraphCast: Learning skillful medium-range global weather forecasting
+      - https://arxiv.org/abs/2212.12794
+    - Skilful precipitation nowcasting using deep generative models of radar
+      - https://www.nature.com/articles/s41586-021-03854-z
+    - Nowcasting the next hour of rain
+      - https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain
+    - Highly accurate protein structure prediction with AlphaFold
+      - https://www.nature.com/articles/s41586-021-03819-2
+    - ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
+      - https://www.nature.com/articles/d41586-020-03348-4
   - Topic: Overview of tools
 - `week02 (0828)`
   - Topic: All about derivatives
