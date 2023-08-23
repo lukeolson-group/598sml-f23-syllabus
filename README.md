@@ -74,6 +74,13 @@ on the material.
     - ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
       - https://www.nature.com/articles/d41586-020-03348-4
   - Topic: Overview of tools
+      - Github's overview: https://docs.github.com/get-started
+      - ... on git: https://docs.github.com/en/get-started/using-git/about-git
+      - How git works: https://eagain.net/articles/git-for-computer-scientists/
+      - How git works: https://www.cduan.com/technical/git/
+      - Best practices: http://sethrobertson.github.io/GitBestPractices/
+      - Python main docs: https://docs.python.org/
+      - Python official tutorial: https://docs.python.org/3/tutorial/index.html
     - https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
     - Pytorch
     - Finite Differences
