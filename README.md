@@ -74,6 +74,9 @@ on the material.
     - ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
       - https://www.nature.com/articles/d41586-020-03348-4
   - Topic: Overview of tools
+    - https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
+    - Pytorch
+    - Finite Differences
 - `week02 (0828)`
   - Topic: All about derivatives
   - Topic: Approximating functions
