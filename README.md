@@ -54,10 +54,18 @@ In either case, your missed attendance due to illness will not impact
 your grade in the course and we will work with you keep you up-to-date
 on the material.
 
+## Notes:
+    - [0828 automatic differentiation](./lectures/598sml-0828.pdf)
+    - [0830 implementing AD by hand](./lectures/598sml-0830.pdf)
+
+## Notebooks:
+    - Public access repo (here): https://github.com/lukeolson-group/598sml-f23-syllabus/hw
+    - Public access repo through Colab: https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
+
 ## Schedule
 
 - `week01 (0821)`
-  - Topic: What is Sci ML? And what is this course?
+  - Monday Topic: What is Sci ML? And what is this course?
     - Scientific discovery in the age of artificial intelligence
       - https://www.nature.com/articles/s41586-023-06221-2
     - FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators
@@ -73,7 +81,7 @@ on the material.
       - https://www.nature.com/articles/s41586-021-03819-2
     - ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
       - https://www.nature.com/articles/d41586-020-03348-4
-  - Topic: Overview of tools
+  - Wednesday Topic: Overview of tools
       - Github's overview: https://docs.github.com/get-started
       - ... on git: https://docs.github.com/en/get-started/using-git/about-git
       - How git works: https://eagain.net/articles/git-for-computer-scientists/
@@ -85,14 +93,25 @@ on the material.
     - Pytorch
     - Finite Differences
 - `week02 (0828)`
-  - Topic: All about derivatives
-  - Topic: Approximating functions
-  - PINNs
-- `week04 (0904)` (no class 0904)
-   - Topic: survey of networks, what to use when and where
-   - Topic: optimizers
-   - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
+  - Monday Topic: Automatic differentiation
+      - Automatic Differentiation in Machine Learning: a Survey
+          - https://arxiv.org/pdf/1502.05767.pdf
+      - Calculus on Computational Graphs: Backpropagation
+          - http://colah.github.io/posts/2015-08-Backprop/
+      - Automatic differentiation in PyTorch
+          - https://openreview.net/pdf?id=BJJsrmfCZ
+    - Wednesday Topic: implementing autodiff
+          - https://sidsite.com/posts/autodiff/
+- `week04 (0904)`
+   - Monday 0904: no class, Labor Day
+   - Wednesday Topic: Approximating functions
+       - Universal approximation theorem
+            - https://en.wikipedia.org/wiki/Universal_approximation_theorem
 - `week05 (0911)`
+  - Topic: PINNs
+  - Topic: survey of networks, what to use when and where
+  - Topic: optimizers
+  - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
   - M: Selecting a project
   - W: xyz
 - `week06 (0918)`
