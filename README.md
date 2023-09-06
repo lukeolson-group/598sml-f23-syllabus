@@ -109,6 +109,10 @@ on the material.
    - Wednesday Topic: Approximating functions
        - Universal approximation theorem
             - https://en.wikipedia.org/wiki/Universal_approximation_theorem
+       - Approximation theory of the MLP model in neural networks
+            - https://www.cambridge.org/core/journals/acta-numerica/article/approximation-theory-of-the-mlp-model-in-neural-networks/18072C558C8410C4F92A82BCC8FC8CF9
+        - Neural network approximation
+            - https://www.cambridge.org/core/journals/acta-numerica/article/neural-network-approximation/7077A90FB36D405D903DCC82683B7A48
 - `week05 (0911)`
   - Topic: PINNs
   - Topic: survey of networks, what to use when and where
