@@ -55,12 +55,14 @@ your grade in the course and we will work with you keep you up-to-date
 on the material.
 
 ## Notes:
-    - [0828 automatic differentiation](./lectures/598sml-0828.pdf)
-    - [0830 implementing AD by hand](./lectures/598sml-0830.pdf)
+
+- [0828 automatic differentiation](./lectures/598sml-0828.pdf)
+- [0830 implementing AD by hand](./lectures/598sml-0830.pdf)
 
 ## Notebooks:
-    - Public access repo (here): https://github.com/lukeolson-group/598sml-f23-syllabus/hw
-    - Public access repo through Colab: https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
+
+- Public access repo (here): https://github.com/lukeolson-group/598sml-f23-syllabus/hw
+- Public access repo through Colab: https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
 
 ## Schedule
 
