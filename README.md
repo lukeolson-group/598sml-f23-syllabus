@@ -124,40 +124,42 @@ on the material.
   - M: CPINNS
   - W: XPINNS and Domain Decomposition
 - `week07 (0925)`
-  - M: Project workflow, steps
-  - W: Domain decomposition
-  - W: Data workflows
+  - M: Domain decomposition, elliptic PDEs
+  - W: Domain decomposition, elliptic PDEs
 - `week08 (1002)`
-  - M: Elliptic PDEs
-  - M: project goals, a list
-  - W: Domain decomposition, HAL
+  - M: Integral Equations, `prj00` start
+  - W: Domain decomposition, HAL, `prj00` due.
 - `week09 (1009)`
-  - M: Project setup
+  - M: `prj01` project description due; work on `proj02` workflow
   - W: Neural ODEs
 - `week10 (1016)`
   - M: Domain decomposition and elliptic problems
-  - M: Setting up the simulation
+  - M: `prjo03` project setup and initial results
   - W: PyTorch on HAL
   - W: Neural ODEs
 - `week11 (1023)`
-  - M: Present training results
+  - M: Present training results, `prj04` summarize model, loss, training
   - W: Neural Operators
 - `week12 (1030)`
-  - M: Project peer feedback
+  - M: Project peer feedback `prj06`
   - W: Graph Neural Networks
 - `week13 (1106)`
-  - M: Training results
+  - M: Share training results `prj06` statrt
   - W: Specialized talk
 - `week14 (1113)`
-  - M: Preliminary results, pretty picture
+  - M: Draft slides, results, `prj06` due
   - W: Neural Operators, DeepONets, and Gaussian Processes
 - `week15 (1120)` ~~Thanksgiving~~
-- `week16 (1127)` tbd
-- `week17 (1204)` tbd
-- `week17 (1211)` tbd
+- `week16 (1127)`
+    M: `proj07` final slides due
+    M: Presentations day 1
+    W: Presentations day 2
+- `week17 (1204)`
+    M: Presentations day 3
+    W: Presentations day 4
 
 ## Grading
 
 Final course scores will be computed as 40% weekly Homeworks and 60% Final Project.
 
-Grades will use the standard 10-point scale, so 90-100 is A-/A/A+, 80-90 is B-/B/B+, etc.
+Grades will use the standa
