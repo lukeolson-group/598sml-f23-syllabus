@@ -104,7 +104,7 @@ on the material.
           - https://openreview.net/pdf?id=BJJsrmfCZ
     - Wednesday Topic: implementing autodiff
           - https://sidsite.com/posts/autodiff/
-- `week04 (0904)`
+- `week03 (0904)`
    - Monday 0904: no class, Labor Day
    - Wednesday Topic: Approximating functions
        - Universal approximation theorem
@@ -113,50 +113,50 @@ on the material.
             - https://www.cambridge.org/core/journals/acta-numerica/article/approximation-theory-of-the-mlp-model-in-neural-networks/18072C558C8410C4F92A82BCC8FC8CF9
         - Neural network approximation
             - https://www.cambridge.org/core/journals/acta-numerica/article/neural-network-approximation/7077A90FB36D405D903DCC82683B7A48
-- `week05 (0911)`
+- `week04 (0911)`
   - Topic: PINNs
   - Topic: survey of networks, what to use when and where
   - Topic: optimizers
   - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
   - M: Selecting a project
   - W: xyz
-- `week06 (0918)`
+- `week05 (0918)`
   - M: CPINNS
   - W: XPINNS and Domain Decomposition
-- `week07 (0925)`
+- `week06 (0925)`
   - M: Domain decomposition, elliptic PDEs
   - W: Domain decomposition, elliptic PDEs
-- `week08 (1002)`
+- `week07 (1002)`
   - M: Integral Equations, `prj00` start
   - W: Domain decomposition, HAL, `prj00` due.
-- `week09 (1009)`
+- `week08 (1009)`
   - M: `prj01` project description due; work on `proj02` workflow
   - W: Neural ODEs
-- `week10 (1016)`
+- `week09 (1016)`
   - M: Domain decomposition and elliptic problems
   - M: `prjo03` project setup and initial results
   - W: PyTorch on HAL
   - W: Neural ODEs
-- `week11 (1023)`
+- `week10 (1023)`
   - M: Present training results, `prj04` summarize model, loss, training
   - W: Neural Operators
-- `week12 (1030)`
-  - M: Project peer feedback `prj06`
+- `week11 (1030)`
+  - M: Project peer feedback `prj05`
   - W: Graph Neural Networks
-- `week13 (1106)`
+- `week12 (1106)`
   - M: Share training results `prj06` statrt
   - W: Specialized talk
-- `week14 (1113)`
+- `week13 (1113)`
   - M: Draft slides, results, `prj06` due
   - W: Neural Operators, DeepONets, and Gaussian Processes
-- `week15 (1120)` ~~Thanksgiving~~
-- `week16 (1127)`
+- `week14 (1120)` ~~Thanksgiving~~
+- `week15 (1127)`
     M: `proj07` final slides due
-    M: Presentations day 1
-    W: Presentations day 2
-- `week17 (1204)`
-    M: Presentations day 3
-    W: Presentations day 4
+  - M: Presentations day 1
+  - W: Presentations day 2
+- `week16 (1204)`
+  - M: Presentations day 3
+  - W: Presentations day 4
 
 ## Grading
 
