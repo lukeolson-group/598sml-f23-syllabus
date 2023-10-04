@@ -58,6 +58,10 @@ on the material.
 
 - [0828 automatic differentiation](./lectures/598sml-0828.pdf)
 - [0830 implementing AD by hand](./lectures/598sml-0830.pdf)
+- [0904 computation graph](./lectures/598sml-0904.pdf)
+- [0911 PINNs](./lectures/598sml-0911.pdf)
+- [0925 domain decomp](./lectures/598sml-0925.pdf)
+- [0927 conservation laws, CPINNS](./lectures/598sml-0927.pdf)
 
 ## Notebooks:
 
@@ -67,59 +71,38 @@ on the material.
 ## Schedule
 
 - `week01 (0821)`
-  - Monday Topic: What is Sci ML? And what is this course?
-    - Scientific discovery in the age of artificial intelligence
-      - https://www.nature.com/articles/s41586-023-06221-2
-    - FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators
-      - https://arxiv.org/pdf/2202.11214.pdf
-      - https://dl.acm.org/doi/abs/10.1145/3592979.3593412 (edited) 
-    - GraphCast: Learning skillful medium-range global weather forecasting
-      - https://arxiv.org/abs/2212.12794
-    - Skilful precipitation nowcasting using deep generative models of radar
-      - https://www.nature.com/articles/s41586-021-03854-z
-    - Nowcasting the next hour of rain
-      - https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain
-    - Highly accurate protein structure prediction with AlphaFold
-      - https://www.nature.com/articles/s41586-021-03819-2
-    - ‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures
-      - https://www.nature.com/articles/d41586-020-03348-4
-  - Wednesday Topic: Overview of tools
-      - Github's overview: https://docs.github.com/get-started
-      - ... on git: https://docs.github.com/en/get-started/using-git/about-git
-      - How git works: https://eagain.net/articles/git-for-computer-scientists/
-      - How git works: https://www.cduan.com/technical/git/
-      - Best practices: http://sethrobertson.github.io/GitBestPractices/
-      - Python main docs: https://docs.python.org/
-      - Python official tutorial: https://docs.python.org/3/tutorial/index.html
-    - https://colab.research.google.com/github/lukeolson-group/598sml-f23-syllabus
-    - Pytorch
-    - Finite Differences
+  - M: What is Sci ML? And what is this course?
+    - [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)
+    - [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://dl.acm.org/doi/abs/10.1145/3592979.3593412)
+    - [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794)
+    - [Skilful precipitation nowcasting using deep generative models of radar](https://www.nature.com/articles/s41586-021-03854-z)
+    - [Nowcasting the next hour of rain](https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain)
+    - [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
+    - [‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4)
+  - W: Overview of tools
+      - [Github's overview](https://docs.github.com/get-started)
+      - [Github on git](https://docs.github.com/en/get-started/using-git/about-git)
+      - [How git works](https://eagain.net/articles/git-for-computer-scientists/)
+      - [How git works](https://www.cduan.com/technical/git/)
+      - [Best practices](http://sethrobertson.github.io/GitBestPractices/)
+      - [Python main docs](https://docs.python.org/)
+      - [Python official tutorial](https://docs.python.org/3/tutorial/index.html)
 - `week02 (0828)`
-  - Monday Topic: Automatic differentiation
-      - Automatic Differentiation in Machine Learning: a Survey
-          - https://arxiv.org/pdf/1502.05767.pdf
-      - Calculus on Computational Graphs: Backpropagation
-          - http://colah.github.io/posts/2015-08-Backprop/
-      - Automatic differentiation in PyTorch
-          - https://openreview.net/pdf?id=BJJsrmfCZ
-    - Wednesday Topic: implementing autodiff
-          - https://sidsite.com/posts/autodiff/
+  - M: Automatic differentiation
+      - [Automatic Differentiation in Machine Learning: a Survey](https://arxiv.org/pdf/1502.05767.pdf)
+      - [Calculus on Computational Graphs: Backpropagation](http://colah.github.io/posts/2015-08-Backprop/)
+      - [Automatic differentiation in PyTorch](https://openreview.net/pdf?id=BJJsrmfCZ)
+  - W: Implementing autodiff
+      - https://sidsite.com/posts/autodiff/
 - `week03 (0904)`
-   - Monday 0904: no class, Labor Day
-   - Wednesday Topic: Approximating functions
-       - Universal approximation theorem
-            - https://en.wikipedia.org/wiki/Universal_approximation_theorem
-       - Approximation theory of the MLP model in neural networks
-            - https://www.cambridge.org/core/journals/acta-numerica/article/approximation-theory-of-the-mlp-model-in-neural-networks/18072C558C8410C4F92A82BCC8FC8CF9
-        - Neural network approximation
-            - https://www.cambridge.org/core/journals/acta-numerica/article/neural-network-approximation/7077A90FB36D405D903DCC82683B7A48
+   - M: 0904, no class, Labor Day
+   - W: Approximating functions
+       - [Universal approximation theorem](https://en.wikipedia.org/wiki/Universal_approximation_theorem)
+       - [Approximation theory of the MLP model in neural networks](https://www.cambridge.org/core/journals/acta-numerica/article/approximation-theory-of-the-mlp-model-in-neural-networks/18072C558C8410C4F92A82BCC8FC8CF9)
+       - [Neural network approximation](https://www.cambridge.org/core/journals/acta-numerica/article/neural-network-approximation/7077A90FB36D405D903DCC82683B7A48)
 - `week04 (0911)`
-  - Topic: PINNs
-  - Topic: survey of networks, what to use when and where
-  - Topic: optimizers
-  - Themes: hierarchy, invariance (CNNs are translationally invariant, e.g.)
-  - M: Selecting a project
-  - W: xyz
+  - M: PINNs
+  - W: PINN implementations
 - `week05 (0918)`
   - M: CPINNS
   - W: XPINNS and Domain Decomposition
@@ -161,5 +144,3 @@ on the material.
 ## Grading
 
 Final course scores will be computed as 40% weekly Homeworks and 60% Final Project.
-
-Grades will use the standa
