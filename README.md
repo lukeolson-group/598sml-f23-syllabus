@@ -116,10 +116,9 @@ on the material.
   - M: `prj01` project description due; work on `proj02` workflow
   - W: Neural ODEs
 - `week09 (1016)`
-  - M: Domain decomposition and elliptic problems
-  - M: `prjo03` project setup and initial results
+  - M: workon code for projects, hw
+  - W: `prjo03` project setup and initial results, Neural ODEs
   - W: PyTorch on HAL
-  - W: Neural ODEs
 - `week10 (1023)`
   - M: Present training results, `prj04` summarize model, loss, training
   - W: Neural Operators
