@@ -117,10 +117,11 @@ on the material.
   - W: Neural ODEs
 - `week09 (1016)`
   - M: workon code for projects, hw
-  - W: `prjo03` project setup and initial results, Neural ODEs
-  - W: PyTorch on HAL
+  - W: `prj03` project setup and initial results, Neural ODEs (due Friday 10/23)
+  - W: DeepONets
 - `week10 (1023)`
-  - M: Present training results, `prj04` summarize model, loss, training
+  - M: Gaussian Processes
+  - W: Present training results, `prj04` summarize model, loss, training (due Friday 10/27)
   - W: Neural Operators
 - `week11 (1030)`
   - M: Project peer feedback `prj05`
@@ -130,7 +131,7 @@ on the material.
   - W: Specialized talk
 - `week13 (1113)`
   - M: Draft slides, results, `prj06` due
-  - W: Neural Operators, DeepONets, and Gaussian Processes
+  - W: Paper reading
 - `week14 (1120)` ~~Thanksgiving~~
 - `week15 (1127)`
     M: `proj07` final slides due
