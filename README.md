@@ -62,6 +62,8 @@ on the material.
 - [0911 PINNs](./lectures/598sml-0911.pdf)
 - [0925 domain decomp](./lectures/598sml-0925.pdf)
 - [0927 conservation laws, CPINNS](./lectures/598sml-0927.pdf)
+- [1018 DeeoONets](./lectures/598sml-1018.pdf)
+- [1023 Gaussian Processes](./lectures/598sml-20231023-gaussian-processes.pdf)
 
 ## Notebooks:
 
