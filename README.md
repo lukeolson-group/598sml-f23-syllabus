@@ -126,8 +126,8 @@ on the material.
   - W: Present training results, `prj04` summarize model, loss, training (due Friday 10/27)
   - W: Neural Operators
 - `week11 (1030)`
-  - M: Project peer feedback `prj05`
-  - W: Graph Neural Networks
+  - M: Graph Neural Networks
+  - W: Project peer feedback `prj05`
 - `week12 (1106)`
   - M: Share training results `prj06` statrt
   - W: Specialized talk
