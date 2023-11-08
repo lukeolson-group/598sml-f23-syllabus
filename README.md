@@ -128,14 +128,14 @@ on the material.
   - W: Present training results, `prj04` summarize model, loss, training (due Friday 10/27)
   - W: Neural Operators
 - `week11 (1030)`
-  - M: Graph Neural Networks
+  - M: Neural ODEs
   - W: Project peer feedback `prj05`
 - `week12 (1106)`
-  - M: Share training results `prj06` statrt
-  - W: Specialized talk
+  - M: Specialized talk
+  - W: Share training results `prj06`
 - `week13 (1113)`
-  - M: Draft slides, results, `prj06` due
-  - W: Paper reading
+  - M: GNNs
+  - W: GNNs
 - `week14 (1120)` ~~Thanksgiving~~
 - `week15 (1127)`
     M: `proj07` final slides due
