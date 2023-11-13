@@ -56,14 +56,19 @@ on the material.
 
 ## Notes:
 
-- [0828 automatic differentiation](./lectures/598sml-0828.pdf)
-- [0830 implementing AD by hand](./lectures/598sml-0830.pdf)
-- [0904 computation graph](./lectures/598sml-0904.pdf)
-- [0911 PINNs](./lectures/598sml-0911.pdf)
-- [0925 domain decomp](./lectures/598sml-0925.pdf)
-- [0927 conservation laws, CPINNS](./lectures/598sml-0927.pdf)
-- [1018 DeeoONets](./lectures/598sml-1018.pdf)
-- [1023 Gaussian Processes](./lectures/598sml-20231023-gaussian-processes.pdf)
+- [2023-08-28 automatic differentiation](./lectures/598sml-20230828-auto-diff.pdf)
+- [2023-08-30 implementing AD by hand](./lectures/598sml-20230830-implement-auto-diff.pdf)
+- [2023-09-04 computation graph](./lectures/598sml-20230904-comp-graph.pdf)
+- [2023-09-06 function approximation](./lectures/598sml-20230906-func-approx.pdf)
+- [2023-09-11 PINNs](./lectures/598sml-20230911-pinns.pdf)
+- [2023-09-25 domain decomposition](./lectures/598sml-20230925-domain-decomp.pdf)
+- [2023-09-25 inverse PINNs](./lectures/598sml-20230925-inverse-pinns.pdf)
+- [2023-09-27 conservation laws, CPINNS](./lectures/598sml-20230927-conservation-laws.pdf)
+- [2023-10-09 integral PINNs](./lectures/598sml-20231009-integral-pinns.pdf)
+- [2023-10-11 high-dim PINNs](./lectures/598sml-20231011-high-dim-pinns.pdf)
+- [2023-10-18 DeepONets](./lectures/598sml-20231018-deeponets.pdf)
+- [2023-10-23 Gaussian Processes](./lectures/598sml-20231023-gaussian-processes.pdf)
+- [2023-10-30 neural ODEs](./lectures/598sml-20231030-neural-odes.pdf)
 - [cs598sml-presentations.pdf](cs598sml-presentations.pdf)
 - [cs598sml-project-guidelines.pdf](cs598sml-project-guidelines.pdf)
 
@@ -79,7 +84,7 @@ on the material.
     - [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)
     - [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://dl.acm.org/doi/abs/10.1145/3592979.3593412)
     - [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794)
-    - [Skilful precipitation nowcasting using deep generative models of radar](https://www.nature.com/articles/s41586-021-03854-z)
+    - [Skillful precipitation nowcasting using deep generative models of radar](https://www.nature.com/articles/s41586-021-03854-z)
     - [Nowcasting the next hour of rain](https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain)
     - [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
     - [‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4)
@@ -120,7 +125,7 @@ on the material.
   - M: `prj01` project description due; work on `proj02` workflow
   - W: Neural ODEs
 - `week09 (1016)`
-  - M: workon code for projects, hw
+  - M: work on code for projects and homework
   - W: `prj03` project setup and initial results, Neural ODEs (due Friday 10/23)
   - W: DeepONets
 - `week10 (1023)`
