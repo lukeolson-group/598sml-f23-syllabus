@@ -62,7 +62,7 @@ on the material.
 - [0911 PINNs](./lectures/598sml-0911.pdf)
 - [0925 domain decomp](./lectures/598sml-0925.pdf)
 - [0927 conservation laws, CPINNS](./lectures/598sml-0927.pdf)
-- [1018 DeeoONets](./lectures/598sml-1018.pdf)
+- [1018 DeepONets](./lectures/598sml-1018.pdf)
 - [1023 Gaussian Processes](./lectures/598sml-20231023-gaussian-processes.pdf)
 - [cs598sml-presentations.pdf](cs598sml-presentations.pdf)
 - [cs598sml-project-guidelines.pdf](cs598sml-project-guidelines.pdf)
@@ -79,7 +79,7 @@ on the material.
     - [Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)
     - [FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators](https://dl.acm.org/doi/abs/10.1145/3592979.3593412)
     - [GraphCast: Learning skillful medium-range global weather forecasting](https://arxiv.org/abs/2212.12794)
-    - [Skilful precipitation nowcasting using deep generative models of radar](https://www.nature.com/articles/s41586-021-03854-z)
+    - [Skillful precipitation nowcasting using deep generative models of radar](https://www.nature.com/articles/s41586-021-03854-z)
     - [Nowcasting the next hour of rain](https://www.deepmind.com/blog/nowcasting-the-next-hour-of-rain)
     - [Highly accurate protein structure prediction with AlphaFold](https://www.nature.com/articles/s41586-021-03819-2)
     - [‘It will change everything’: DeepMind’s AI makes gigantic leap in solving protein structures](https://www.nature.com/articles/d41586-020-03348-4)
@@ -120,7 +120,7 @@ on the material.
   - M: `prj01` project description due; work on `proj02` workflow
   - W: Neural ODEs
 - `week09 (1016)`
-  - M: workon code for projects, hw
+  - M: work on code for projects and homework
   - W: `prj03` project setup and initial results, Neural ODEs (due Friday 10/23)
   - W: DeepONets
 - `week10 (1023)`
